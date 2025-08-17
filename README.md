@@ -20,9 +20,9 @@ ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Archi
    ```
    git clone https://github.com/DASTLSITO/RomiTest.git
    ```
-2. Navega al directorio de la capa de infraestructura:
+2. Navega al directorio del proyecto:
    ```
-   cd RomiTest/RomiCapaInfraestructura
+   cd RomiTest
    ```   
 3. Ejecuta la api mediante su IDE o usando en la terminal:
    ```
