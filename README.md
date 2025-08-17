@@ -10,7 +10,7 @@ ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Archi
 
 ## Requisitos Previos
 * .NET SDK 8.0.
-* Herramientas de EF Core
+* Herramientas de EF Core (Opcional si quiere hacer migraciones, lo cual no es necesario porque ya incluye la db de SQLite)
    ```
    dotnet tool install --global dotnet-ef
    ```
