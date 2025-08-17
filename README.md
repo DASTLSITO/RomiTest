@@ -24,7 +24,7 @@ ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Archi
    ```
    cd RomiTest/RomiCapaInfraestructura
    ```   
-3. Ejecuta la api mediante tu IDE o usando en la terminal:
+3. Ejecuta la api mediante su IDE o usando en la terminal:
    ```
    dotnet run --project RomiAPI
    ```
