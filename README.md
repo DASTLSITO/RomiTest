@@ -9,8 +9,11 @@ ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Archi
 * Capa de Presentación (RomiAPI): El proyecto API principal con controladores, configuración de DI y endpoints expuestos.
 
 ## Requisitos Previos
-.NET SDK 8.0.
-Herramientas de EF Core: dotnet tool install --global dotnet-ef
+* .NET SDK 8.0.
+* Herramientas de EF Core
+   ```
+   dotnet tool install --global dotnet-ef
+   ```
 
 ## Instalación y Configuración
 1. Clona el repositorio:
