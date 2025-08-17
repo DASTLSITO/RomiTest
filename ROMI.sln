@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomiCapaDominio", "RomiCapaDominio\RomiCapaDominio.csproj", "{B0EF4EFB-D5C6-4220-ACAC-3B637D71E2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomiCapaAplicacion", "RomiCapaAplicacion\RomiCapaAplicacion.csproj", "{4289951D-8AA7-4307-9C60-EDBB49658092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomiCapaInfraestructura", "RomiCapaInfraestructura\RomiCapaInfraestructura.csproj", "{ED4117FD-F0CE-4663-B49B-217D921A0B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomiAPI", "RomiAPI\RomiAPI.csproj", "{B444B364-A1E5-4DC1-B38A-200A983DE493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0EF4EFB-D5C6-4220-ACAC-3B637D71E2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EF4EFB-D5C6-4220-ACAC-3B637D71E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EF4EFB-D5C6-4220-ACAC-3B637D71E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EF4EFB-D5C6-4220-ACAC-3B637D71E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4289951D-8AA7-4307-9C60-EDBB49658092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4289951D-8AA7-4307-9C60-EDBB49658092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4289951D-8AA7-4307-9C60-EDBB49658092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4289951D-8AA7-4307-9C60-EDBB49658092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4117FD-F0CE-4663-B49B-217D921A0B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4117FD-F0CE-4663-B49B-217D921A0B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4117FD-F0CE-4663-B49B-217D921A0B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4117FD-F0CE-4663-B49B-217D921A0B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B444B364-A1E5-4DC1-B38A-200A983DE493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B444B364-A1E5-4DC1-B38A-200A983DE493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B444B364-A1E5-4DC1-B38A-200A983DE493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B444B364-A1E5-4DC1-B38A-200A983DE493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

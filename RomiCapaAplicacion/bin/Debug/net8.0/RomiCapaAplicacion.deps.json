@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RomiCapaAplicacion/1.0.0": {
+        "dependencies": {
+          "RomiCapaDominio": "1.0.0"
+        },
+        "runtime": {
+          "RomiCapaAplicacion.dll": {}
+        }
+      },
+      "RomiCapaDominio/1.0.0": {
+        "runtime": {
+          "RomiCapaDominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RomiCapaAplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RomiCapaDominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

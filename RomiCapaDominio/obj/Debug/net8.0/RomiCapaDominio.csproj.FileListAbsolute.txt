@@ -1,0 +1,11 @@
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/bin/Debug/net8.0/RomiCapaDominio.deps.json
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/bin/Debug/net8.0/RomiCapaDominio.dll
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/bin/Debug/net8.0/RomiCapaDominio.pdb
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.AssemblyInfoInputs.cache
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.AssemblyInfo.cs
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.csproj.CoreCompileInputs.cache
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.dll
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/refint/RomiCapaDominio.dll
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/RomiCapaDominio.pdb
+/home/dastl/Documents/Development stuff/ROMI Test/ROMI/RomiCapaDominio/obj/Debug/net8.0/ref/RomiCapaDominio.dll
