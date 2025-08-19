@@ -1,6 +1,6 @@
 # RomiTest
 ## Descripción
-ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Architecture. El proyecto está dividido en capas independientes para promover la mantenibilidad, escalabilidad y testabilidad.
+ROMI es una API desarrollada en .NET 8.0 siguiendo los principios de Clean Architecture.
 
 ## Arquitectura
 * Capa de Dominio (RomiCapaDominio): Contiene las entidades del negocio, DTOs y reglas de dominio puras, sin dependencias externas.
