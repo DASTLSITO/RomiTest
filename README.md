@@ -4,7 +4,7 @@ API desarrollada en .NET 8.0 siguiendo los principios de Clean Architecture.
 
 ## Arquitectura
 * Capa de Dominio (RomiCapaDominio): Contiene las entidades del negocio, DTOs y reglas de dominio puras, sin dependencias externas.
-* Capa de Aplicación (RomiApiAplicacion): Maneja los casos de uso, interfaces de repositorios, mapeos y lógica de aplicación.
+* Capa de Aplicación (RomiApiAplicacion): Maneja los casos de uso, interfaces de repositorios y mapeos.
 * Capa de Infraestructura (RomiCapaInfraestructura): Implementa los repositorios concretos, el DbContext (usando EF Core) y migraciones de base de datos.
 * Capa de Presentación (RomiAPI): El proyecto API principal con controladores, configuración de DI y endpoints expuestos.
 
