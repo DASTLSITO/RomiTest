@@ -1,5 +1,6 @@
 using RomiCapaDominio.Entidades;
 using RomiCapaDominio.Entidades.DTOs;
+using RomiCapaDominio.Helpers;
 
 namespace RomiCapaAplicacion.Mapeos;
 
@@ -11,7 +12,7 @@ public static class ClienteMapeos
         {
             Nombres = cliente.Nombres,
             Apellidos = cliente.Apellidos,
-            Edad = CalcularEdad(cliente.FechaDeNacimiento),
+            Edad = EdadHelpers.FechaDeNacimientoAEdad(cliente.FechaDeNacimiento),
             Sexo = cliente.Sexo,
             Sintomas = cliente.Sintomas
         };
@@ -27,19 +28,5 @@ public static class ClienteMapeos
             Sexo = clienteDTO.Sexo,
             Sintomas = clienteDTO.Sintomas
         };
-    }
-    
-    private static int CalcularEdad(DateTime fechaNacimiento)
-    {
-        DateTime fechaActual = DateTime.Today; 
-        
-        int edad = fechaActual.Year - fechaNacimiento.Year;
-        
-        if (fechaNacimiento.Date > fechaActual.AddYears(-edad))
-        {
-            edad--;
-        }
-        
-        return edad;
     }
 }

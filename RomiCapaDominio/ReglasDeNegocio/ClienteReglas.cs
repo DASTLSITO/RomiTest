@@ -1,3 +1,5 @@
+using RomiCapaDominio.Helpers;
+
 namespace RomiCapaDominio.ReglasDeNegocio;
 
 public static class ClienteReglas
@@ -12,14 +14,7 @@ public static class ClienteReglas
     
     public static bool EdadEsValida(DateTime fechaNacimiento)
     {
-        int edad = DateTime.UtcNow.Year - fechaNacimiento.Year;
-        
-        if (fechaNacimiento.Date > DateTime.UtcNow.AddYears(-edad))
-        {
-            edad--;
-        }
-        
-        return edad >= 18;
+        return EdadHelpers.FechaDeNacimientoAEdad(fechaNacimiento) >= 18;
     }
     
     public static bool SexoValido(char sexo)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomiCapaDominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3cd3349e8df3a915077ca45cb2fb5ed1d90aabc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomiCapaDominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomiCapaDominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
